@@ -1,4 +1,5 @@
 ﻿using System;
+using DIO.Exemplos;
 
 namespace DIO
 {
@@ -6,12 +7,14 @@ namespace DIO
   {
     static void Main(string[] args)
     {
-      int count = 5;
-
-      for (int i = 0; i < count; i++)
-      {
-        Console.WriteLine($"Bem-vindo ao curso de .NET {i}");
-      }
+      var s = new Pilha();
+      s.Empilhado(1);
+      s.Empilhado(10);
+      s.Empilhado(100);
+      Console.WriteLine(s.Desempilha());
+      Console.WriteLine(s.Desempilha());
+      Console.WriteLine(s.Desempilha());
     }
   }
 }
+
