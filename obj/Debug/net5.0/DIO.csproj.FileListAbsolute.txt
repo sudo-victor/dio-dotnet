@@ -1,0 +1,16 @@
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/bin/Debug/net5.0/DIO
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/bin/Debug/net5.0/DIO.deps.json
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/bin/Debug/net5.0/DIO.runtimeconfig.json
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/bin/Debug/net5.0/DIO.runtimeconfig.dev.json
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/bin/Debug/net5.0/DIO.dll
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/bin/Debug/net5.0/ref/DIO.dll
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/bin/Debug/net5.0/DIO.pdb
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/DIO.csproj.AssemblyReference.cache
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/DIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/DIO.AssemblyInfoInputs.cache
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/DIO.AssemblyInfo.cs
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/DIO.csproj.CoreCompileInputs.cache
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/DIO.dll
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/ref/DIO.dll
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/DIO.pdb
+/home/viktor/www/dio/cursos/intro-dot-net/DIO/obj/Debug/net5.0/DIO.genruntimeconfig.cache
